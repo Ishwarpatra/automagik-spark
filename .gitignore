@@ -4,13 +4,20 @@ __pycache__/
 *$py.class
 *.so
 .Python
+<<<<<<< HEAD
 env/
+=======
+>>>>>>> 6e54554 (Initial commit: Implemented flow sync and list commands)
 build/
 develop-eggs/
 dist/
 downloads/
 eggs/
 .eggs/
+<<<<<<< HEAD
+=======
+lib/
+>>>>>>> 6e54554 (Initial commit: Implemented flow sync and list commands)
 lib64/
 parts/
 sdist/
@@ -21,25 +28,37 @@ wheels/
 *.egg
 
 # Virtual Environment
+<<<<<<< HEAD
 venv/
 env/
 
 # Environment Variables
 .env
 .env.docker
+=======
+.env
+.venv
+env/
+venv/
+ENV/
+>>>>>>> 6e54554 (Initial commit: Implemented flow sync and list commands)
 
 # IDE
 .idea/
 .vscode/
 *.swp
 *.swo
+<<<<<<< HEAD
 .cursorrules
 .cursorignore
 .cursorindexingignore
+=======
+>>>>>>> 6e54554 (Initial commit: Implemented flow sync and list commands)
 
 # OS
 .DS_Store
 Thumbs.db
+<<<<<<< HEAD
 
 # PDF files
 *.pdf
@@ -74,3 +93,5 @@ coverage/
 test-results/
 test-reports/
 .pytest/
+=======
+>>>>>>> 6e54554 (Initial commit: Implemented flow sync and list commands)
